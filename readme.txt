@@ -1,0 +1,1 @@
+This repo contains the homework projects for data structure class
