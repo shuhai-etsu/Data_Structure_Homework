@@ -1,0 +1,9 @@
+G:\shuhai-1-25-2014\temp-temp\computer course\data structure###\data structure-ETSU\2210-201-IgnaceCaleb-LiShuhia-Project4\2210-201-IgnaceCaleb-LiShuhia-Project4 (5)\Project4\bin\Debug\Project4.exe.config
+G:\shuhai-1-25-2014\temp-temp\computer course\data structure###\data structure-ETSU\2210-201-IgnaceCaleb-LiShuhia-Project4\2210-201-IgnaceCaleb-LiShuhia-Project4 (5)\Project4\bin\Debug\Project4.exe
+G:\shuhai-1-25-2014\temp-temp\computer course\data structure###\data structure-ETSU\2210-201-IgnaceCaleb-LiShuhia-Project4\2210-201-IgnaceCaleb-LiShuhia-Project4 (5)\Project4\bin\Debug\Project4.pdb
+G:\shuhai-1-25-2014\temp-temp\computer course\data structure###\data structure-ETSU\2210-201-IgnaceCaleb-LiShuhia-Project4\2210-201-IgnaceCaleb-LiShuhia-Project4 (5)\Project4\obj\Debug\Project4.csprojResolveAssemblyReference.cache
+G:\shuhai-1-25-2014\temp-temp\computer course\data structure###\data structure-ETSU\2210-201-IgnaceCaleb-LiShuhia-Project4\2210-201-IgnaceCaleb-LiShuhia-Project4 (5)\Project4\obj\Debug\Project4.exe
+G:\shuhai-1-25-2014\temp-temp\computer course\data structure###\data structure-ETSU\2210-201-IgnaceCaleb-LiShuhia-Project4\2210-201-IgnaceCaleb-LiShuhia-Project4 (5)\Project4\obj\Debug\Project4.pdb
+G:\shuhai-1-3-2016\temp-temp\computer course\data structure\data structure-ETSU\2210-201-IgnaceCaleb-LiShuhai-Project4\2210-201-IgnaceCaleb-LiShuhia-Project4 (5)\Project4\bin\Debug\Project4.exe.config
+G:\shuhai-1-3-2016\temp-temp\computer course\data structure\data structure-ETSU\2210-201-IgnaceCaleb-LiShuhai-Project4\2210-201-IgnaceCaleb-LiShuhia-Project4 (5)\Project4\obj\Debug\Project4.exe
+G:\shuhai-1-3-2016\temp-temp\computer course\data structure\data structure-ETSU\2210-201-IgnaceCaleb-LiShuhai-Project4\2210-201-IgnaceCaleb-LiShuhia-Project4 (5)\Project4\obj\Debug\Project4.pdb

@@ -1,0 +1,6 @@
+G:\shuhai-1-25-2014\temp-temp\computer course\data structure###\data structure-ETSU\2210-201-IgnaceCaleb-LiShuhai-Project5-2\B-Tree\bin\Debug\B-Tree.exe.config
+G:\shuhai-1-25-2014\temp-temp\computer course\data structure###\data structure-ETSU\2210-201-IgnaceCaleb-LiShuhai-Project5-2\B-Tree\bin\Debug\B-Tree.exe
+G:\shuhai-1-25-2014\temp-temp\computer course\data structure###\data structure-ETSU\2210-201-IgnaceCaleb-LiShuhai-Project5-2\B-Tree\bin\Debug\B-Tree.pdb
+G:\shuhai-1-25-2014\temp-temp\computer course\data structure###\data structure-ETSU\2210-201-IgnaceCaleb-LiShuhai-Project5-2\B-Tree\obj\Debug\B-Tree.csprojResolveAssemblyReference.cache
+G:\shuhai-1-25-2014\temp-temp\computer course\data structure###\data structure-ETSU\2210-201-IgnaceCaleb-LiShuhai-Project5-2\B-Tree\obj\Debug\B-Tree.exe
+G:\shuhai-1-25-2014\temp-temp\computer course\data structure###\data structure-ETSU\2210-201-IgnaceCaleb-LiShuhai-Project5-2\B-Tree\obj\Debug\B-Tree.pdb

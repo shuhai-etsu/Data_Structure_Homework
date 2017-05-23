@@ -1,0 +1,6 @@
+c:\users\shuhai li\documents\visual studio 2015\Projects\CreditCardManager\CreditCardManager\bin\Debug\CreditCardManager.exe.config
+c:\users\shuhai li\documents\visual studio 2015\Projects\CreditCardManager\CreditCardManager\obj\Debug\CreditCardManager.csprojResolveAssemblyReference.cache
+c:\users\shuhai li\documents\visual studio 2015\Projects\CreditCardManager\CreditCardManager\bin\Debug\CreditCardManager.exe
+c:\users\shuhai li\documents\visual studio 2015\Projects\CreditCardManager\CreditCardManager\bin\Debug\CreditCardManager.pdb
+c:\users\shuhai li\documents\visual studio 2015\Projects\CreditCardManager\CreditCardManager\obj\Debug\CreditCardManager.exe
+c:\users\shuhai li\documents\visual studio 2015\Projects\CreditCardManager\CreditCardManager\obj\Debug\CreditCardManager.pdb
